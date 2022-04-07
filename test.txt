@@ -1,0 +1,9 @@
+this folder is to test how to upload specific file
+git init 
+git add -folder name
+git push -u origin main
+
+
+for first push
+git branch -m
+git remote add origin paste url
